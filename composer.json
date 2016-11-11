@@ -1,4 +1,5 @@
 {
+    "name":"nexcess/magento-alarmbell",
     "require-dev": {
         "magento-ecg/coding-standard": "^2.0"
     }
